@@ -1,0 +1,74 @@
+.About {
+ background: black;
+ color: white;
+ text-align: center;
+ height: 100%;
+ padding-top: 40px;
+ padding-bottom: 40px;
+}
+
+.About__info {
+  padding: 0 10px;
+}
+
+.About p {
+  font-size: 1.125em;
+  line-height: 1.4em;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.About hr {
+  border: 0;
+  height: 3px;
+  background-color: white;
+  margin: 20px 0;
+}
+
+.About__social-links a {
+  margin: 0 10px;
+}
+
+@media screen and (min-width: 768px) {
+  .About {
+    padding-left: 8%;
+    padding-right: 8%;
+  }
+
+  .About h1 {
+    font-size: 2em;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .About__content {
+    margin-top: 60px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto;
+    grid-template-areas:
+      "name-title name-title info info info"
+      "name-title name-title social-links social-links social-links"
+  }
+
+  .About__social-links {
+    grid-area: social-links;
+    text-align: center;
+  }
+  .About__name-title {
+    grid-area : name-title;
+    border-right: 3px solid white; /* takes place of <hr /> */
+    padding: 50px 20px;
+    justify-self: end;
+    max-height: 90%;
+  }
+
+  .About__info {
+    grid-area: info;
+    padding: 150px 20px;
+  }
+
+  .About hr {
+    display: none;
+  }
+}

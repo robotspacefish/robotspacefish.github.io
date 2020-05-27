@@ -1,0 +1,72 @@
+.Project {
+  margin-bottom: 80px;
+}
+
+.Project img {
+  width: 100%;
+  max-width: 375px;
+  max-height: 295px;
+  height: auto;
+  align-self: center;
+  border: 1px solid black;
+}
+
+.Project {
+  display: flex;
+  flex-direction: column;
+}
+
+.Project h4 {
+  background: black;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 2em;
+  padding: 5px 40px;
+  margin: 10px 0;
+  align-self: center;
+}
+
+.Project__links {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 30px;
+}
+
+.Project__links a {
+  color: black;
+}
+
+.Project__links a:hover {
+  font-weight: 700;
+}
+
+.Project__links button {
+  border: 0;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1em;
+  text-decoration: underline;
+}
+
+.Project__links button:hover {
+  font-weight: 700;
+}
+
+@media screen and (min-width: 768px) {
+  .Project img {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+  }
+
+  .Project:hover img {
+    -webkit-filter: none;
+    filter: none;
+    -webkit-transition: 0.5s ease;
+    transition: 0.5s ease;
+  }
+}
+

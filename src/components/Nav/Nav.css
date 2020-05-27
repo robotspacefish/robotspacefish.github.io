@@ -1,0 +1,42 @@
+.Nav {
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 10px 0;
+  background: black;
+}
+
+.Nav a {
+  font-family: 'IM Fell English SC', serif;
+  text-decoration: none;
+}
+
+a.active,
+.Nav a:hover {
+  font-weight: 700;
+  text-decoration: underline;
+}
+
+.Nav a:hover {
+  text-decoration: underline;
+}
+
+@media screen and (min-width: 900px) {
+  #nav-mobile-btn {
+    display: none;
+  }
+
+  .Nav {
+    max-width: 1200px;
+    align-self: center;
+    height: auto;
+    padding: 0;
+  }
+
+  .Nav a {
+    margin: 0 40px;
+    padding: 10px 0;
+    font-size: 2em;
+  }
+}
