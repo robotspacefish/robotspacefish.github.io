@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5652947.chunk.css",
+    "main.js": "/static/js/main.b308d303.chunk.js",
+    "main.js.map": "/static/js/main.b308d303.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6d8ceafa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6d8ceafa.js.map",
+    "static/js/2.2f619050.chunk.js": "/static/js/2.2f619050.chunk.js",
+    "static/js/2.2f619050.chunk.js.map": "/static/js/2.2f619050.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b0869c3bdfb92a24565a7e2224a8a80e.js": "/precache-manifest.b0869c3bdfb92a24565a7e2224a8a80e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a5652947.chunk.css.map": "/static/css/main.a5652947.chunk.css.map",
+    "static/js/2.2f619050.chunk.js.LICENSE.txt": "/static/js/2.2f619050.chunk.js.LICENSE.txt",
+    "static/media/budget.png": "/static/media/budget.99d1f784.png",
+    "static/media/coffee.png": "/static/media/coffee.7fe1c44e.png",
+    "static/media/etchasketch.png": "/static/media/etchasketch.34ef1b5f.png",
+    "static/media/events.png": "/static/media/events.73c3b34a.png",
+    "static/media/gallery.png": "/static/media/gallery.8410779f.png",
+    "static/media/games-coming-soon.png": "/static/media/games-coming-soon.bc06747a.png",
+    "static/media/gametracker-ver1-sinatra.png": "/static/media/gametracker-ver1-sinatra.6ecabc89.png",
+    "static/media/gametracker-ver2-rails.png": "/static/media/gametracker-ver2-rails.e552b211.png",
+    "static/media/gametracker-ver2-rails02.png": "/static/media/gametracker-ver2-rails02.72a56a60.png",
+    "static/media/hoosthere.png": "/static/media/hoosthere.a22d51c4.png",
+    "static/media/insult_swordfighting.png": "/static/media/insult_swordfighting.1432da40.png",
+    "static/media/invasion.png": "/static/media/invasion.4ff93020.png",
+    "static/media/kana.png": "/static/media/kana.c86ed079.png",
+    "static/media/library.png": "/static/media/library.2ff2f3f5.png",
+    "static/media/matching.png": "/static/media/matching.fd97e4d2.png",
+    "static/media/react-todo.png": "/static/media/react-todo.e4334ed9.png",
+    "static/media/tictactoe.png": "/static/media/tictactoe.523a0497.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d8ceafa.js",
+    "static/js/2.2f619050.chunk.js",
+    "static/css/main.a5652947.chunk.css",
+    "static/js/main.b308d303.chunk.js"
+  ]
+}
