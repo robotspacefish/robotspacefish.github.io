@@ -41,7 +41,7 @@ class Portfolio extends Component {
   render() {
     return (
       <section className='Portfolio'>
-        <h2>Portfolio</h2>
+        <h2>Projects</h2>
 
         <div className='Portfolio__items'>
           {projects.map(project => (
