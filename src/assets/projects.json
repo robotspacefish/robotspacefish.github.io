@@ -3,7 +3,7 @@
     "id": "invasion",
     "title": "Invasion!",
     "img": "invasion.png",
-    "github": "invasion",
+    "github": "invasion-frontend",
     "view": "https://robotspacefish.github.io/invasion-frontend",
     "info": [
       "Invasion! is a game about my dog Penny, dreaming of battling squirrels in space.",
