@@ -1,5 +1,18 @@
 [
   {
+    "id": "killexe",
+    "title": "Kill.exe Not Found",
+    "img": "killexe.png",
+    "github": "404",
+    "view": "https://js13kgames.com/entries/killexe-not-found",
+    "info": [
+      "Kill.exe Not Found is my entry to JS13k, which is a competition to create a JavaScript/HTML5 game in under 13kb. The theme was 404, interpreted as 'not found'.",
+      "You play as a defense robot during an alien invasion. Your kill.exe file is missing so the only way to get rid of the aliens is to give them what they want: food!"
+    ],
+    "keywords": "JavaScript, HTML5",
+    "blog": "https://dev.to/robotspacefish/my-experience-entering-js13k-80i"
+  },
+  {
     "id": "invasion",
     "title": "Invasion!",
     "img": "invasion.png",
@@ -55,20 +68,6 @@
     "keywords": "Rails, Ruby, ActiveRecord, PostgreSQL",
     "video": "https://www.youtube.com/watch?v=sskQze95SME",
     "blog": "https://dev.to/robotspacefish/flatiron-school-rails-project-gametracker-2-0-90e"
-  },
-  {
-    "id": "games-coming-soon",
-    "title": "Games Coming Soon",
-    "img": "games-coming-soon.png",
-    "github": "games-coming-soon-cli",
-    "view": "https://repl.it/@robotspacefish/games-coming-soon-cli",
-    "info": [
-      "Games Coming Soon is a command line interface (CLI) application that retrieves information, scraped from IGDB.com, on games coming out in the next year and displays them to the user.",
-      "The user can view upcoming games by month or platform."
-    ],
-    "keywords": "Ruby, Nokogiri",
-    "video": "https://www.youtube.com/watch?v=2NhQCixDrWQ",
-    "blog": "https://dev.to/robotspacefish/flatiron-school-cli-project-1of5"
   },
   {
     "id": "dungeon_dino",
