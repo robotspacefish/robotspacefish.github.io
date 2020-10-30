@@ -80,6 +80,7 @@
       "You play as Dungeon Dino, and your objective is to find as many gems as you can in a room. The catch is that you have to smash vases to find the gems, and some vases contain explosives.",
       "My goal when creating this game was to learn some concepts of game development while figuring out the Pico-8. Therefore it's not exactly an exciting game (though I'm pretty excited about it)."
     ],
-    "keywords": "Lua, Pico-8"
+    "keywords": "Lua, Pico-8",
+    "video": "https://youtu.be/matE1cz22Yo"
   }
 ]
