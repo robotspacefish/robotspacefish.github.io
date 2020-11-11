@@ -8,7 +8,7 @@ const Project = ({ handleInfoModal, project }) => {
   return (
     <div className='Project'>
       <h4>{title}</h4>
-      <img src={require(`../../assets/img/${img}`)} alt='library project' />
+      <img src={require(`../../assets/img/${img}`)} alt={title} />
       <div className='Project__links'>
 
         {info && (
@@ -17,7 +17,7 @@ const Project = ({ handleInfoModal, project }) => {
 
         <ExternalLink url={view} text="View" />
 
-        {video && <ExternalLink url={video} text="Demo" />}
+        {video && <ExternalLink url={video} text="Demo Video" />}
 
         <ExternalLink url={`${githubUrl}${github}`} text="Source Code" />
       </div>
