@@ -29,6 +29,20 @@
     "blog": "https://dev.to/robotspacefish/making-a-game-with-javascript-54ii"
   },
   {
+    "id": "dungeon_dino",
+    "title": "Dungeon Dino",
+    "img": "dungeon_dino.png",
+    "github": "dungeon_dino",
+    "view": "https://robotspacefish.github.io/dungeon_dino",
+    "info": [
+      "Dungeon Dino is a game I made for the Pico-8 fantasy console. It's written in Lua and I made all the sprites and sounds in the Pico-8.",
+      "You play as Dungeon Dino, and your objective is to find as many gems as you can in a room. The catch is that you have to smash vases to find the gems, and some vases contain explosives.",
+      "My goal when creating this game was to learn some concepts of game development while figuring out the Pico-8. Therefore it's not exactly an exciting game (though I'm pretty excited about it)."
+    ],
+    "keywords": "Lua, Pico-8",
+    "video": "https://youtu.be/matE1cz22Yo"
+  },
+  {
     "id": "hoos_there",
     "title": "Hoo's There?",
     "img": "hoosthere.png",
@@ -69,19 +83,5 @@
     "keywords": "Rails, Ruby, ActiveRecord, PostgreSQL",
     "video": "https://www.youtube.com/watch?v=sskQze95SME",
     "blog": "https://dev.to/robotspacefish/flatiron-school-rails-project-gametracker-2-0-90e"
-  },
-  {
-    "id": "dungeon_dino",
-    "title": "Dungeon Dino",
-    "img": "dungeon_dino.png",
-    "github": "dungeon_dino",
-    "view": "https://robotspacefish.github.io/dungeon_dino",
-    "info": [
-      "Dungeon Dino is a game I made for the Pico-8 fantasy console. It's written in Lua and I made all the sprites and sounds in the Pico-8.",
-      "You play as Dungeon Dino, and your objective is to find as many gems as you can in a room. The catch is that you have to smash vases to find the gems, and some vases contain explosives.",
-      "My goal when creating this game was to learn some concepts of game development while figuring out the Pico-8. Therefore it's not exactly an exciting game (though I'm pretty excited about it)."
-    ],
-    "keywords": "Lua, Pico-8",
-    "video": "https://youtu.be/matE1cz22Yo"
   }
 ]
