@@ -57,20 +57,6 @@
     "blog": "https://dev.to/robotspacefish/final-flatiron-school-project-animal-crossing-new-horizons-creature-tracker-3b7n"
   },
   {
-    "id": "gametracker_ver1",
-    "title": "GameTracker v.1",
-    "img": "gametracker-ver1-sinatra.png",
-    "github": "gametracker",
-    "view": "https://gametracker-ver1.herokuapp.com",
-    "info": [
-      "GameTracker is a video game collection app made with Ruby and Sinatra.",
-      "The user can create an account and add games to their personal library by adding custom games or searching, which utilizes the IGDB API for the most current and accurate game data."
-    ],
-    "keywords": "Ruby, ActiveRecord, Sinatra, SQLite, PostgreSQL",
-    "video": "https://www.youtube.com/watch?v=W_TC7rHGypA",
-    "blog": "https: //dev.to/robotspacefish/gametracker-my-crud-mvc-sinatra-app-for-flatiron-school-1k8m"
-  },
-  {
     "id": "gametracker_ver2",
     "title": "GameTracker v.2",
     "img": "gametracker-ver2-rails02.png",
