@@ -58,13 +58,13 @@
   },
   {
     "id": "gametracker_ver2",
-    "title": "GameTracker v.2",
+    "title": "GameTracker",
     "img": "gametracker-ver2-rails02.png",
     "github": "gametracker_rails",
     "view": "https://gametracker-ver2.herokuapp.com",
     "info": [
-      "GameTracker v.2 is an overhauled version of my video game collection app, GameTracker v.1, this time made with Ruby on Rails.",
-      "This version allows for users to sign up by username/email or Google login via OAuth 2.0 and add games to their personal library. Each game can be marked as 'want to play', 'currently playing', or 'completed', and the user can add as many notes/objectives to a game as they want. "
+      "GameTracker is a video game collection app made with Ruby on Rails that allows for users to sign up by username/email or Google login via OAuth 2.0 and add games to their personal library.",
+      "Each game can be marked as 'want to play', 'currently playing', or 'completed', and the user can add as many notes/objectives to a game as they want. "
     ],
     "keywords": "Rails, Ruby, ActiveRecord, PostgreSQL",
     "video": "https://www.youtube.com/watch?v=sskQze95SME",
