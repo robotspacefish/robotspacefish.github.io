@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.a5652947.chunk.css",
-    "main.js": "/static/js/main.9557225a.chunk.js",
-    "main.js.map": "/static/js/main.9557225a.chunk.js.map",
+    "main.js": "/static/js/main.b8f8d3a8.chunk.js",
+    "main.js.map": "/static/js/main.b8f8d3a8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6d8ceafa.js",
     "runtime-main.js.map": "/static/js/runtime-main.6d8ceafa.js.map",
-    "static/js/2.b0c9ebef.chunk.js": "/static/js/2.b0c9ebef.chunk.js",
-    "static/js/2.b0c9ebef.chunk.js.map": "/static/js/2.b0c9ebef.chunk.js.map",
+    "static/js/2.39dbea51.chunk.js": "/static/js/2.39dbea51.chunk.js",
+    "static/js/2.39dbea51.chunk.js.map": "/static/js/2.39dbea51.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.86772749c13d140e54715d49d2963b60.js": "/precache-manifest.86772749c13d140e54715d49d2963b60.js",
+    "precache-manifest.46f12178fd4217d81b9fd0e503a194f7.js": "/precache-manifest.46f12178fd4217d81b9fd0e503a194f7.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a5652947.chunk.css.map": "/static/css/main.a5652947.chunk.css.map",
-    "static/js/2.b0c9ebef.chunk.js.LICENSE.txt": "/static/js/2.b0c9ebef.chunk.js.LICENSE.txt",
+    "static/js/2.39dbea51.chunk.js.LICENSE.txt": "/static/js/2.39dbea51.chunk.js.LICENSE.txt",
     "static/media/budget.png": "/static/media/budget.99d1f784.png",
     "static/media/coffee.png": "/static/media/coffee.7fe1c44e.png",
     "static/media/etchasketch.png": "/static/media/etchasketch.34ef1b5f.png",
@@ -21,6 +21,7 @@
     "static/media/gametracker-ver1-sinatra.png": "/static/media/gametracker-ver1-sinatra.6ecabc89.png",
     "static/media/gametracker-ver2-rails.png": "/static/media/gametracker-ver2-rails.e552b211.png",
     "static/media/gametracker-ver2-rails02.png": "/static/media/gametracker-ver2-rails02.72a56a60.png",
+    "static/media/ghosttrap.png": "/static/media/ghosttrap.b8ca117c.png",
     "static/media/hoosthere.png": "/static/media/hoosthere.a22d51c4.png",
     "static/media/insult_swordfighting.png": "/static/media/insult_swordfighting.1432da40.png",
     "static/media/invasion.png": "/static/media/invasion.4ff93020.png",
@@ -33,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6d8ceafa.js",
-    "static/js/2.b0c9ebef.chunk.js",
+    "static/js/2.39dbea51.chunk.js",
     "static/css/main.a5652947.chunk.css",
-    "static/js/main.9557225a.chunk.js"
+    "static/js/main.b8f8d3a8.chunk.js"
   ]
 }

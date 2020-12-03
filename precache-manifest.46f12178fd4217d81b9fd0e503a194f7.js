@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a35c269f5ee6946768dc53b83fcf15a4",
+    "revision": "1656964f983da2f009773fb8bb49445f",
     "url": "/index.html"
   },
   {
-    "revision": "429d657cc817b5fdbc32",
+    "revision": "f18190d8fb80fd27f2b8",
     "url": "/static/css/main.a5652947.chunk.css"
   },
   {
-    "revision": "75c3dffea043e4bd8b90",
-    "url": "/static/js/2.b0c9ebef.chunk.js"
+    "revision": "42c23092eec07b8ca880",
+    "url": "/static/js/2.39dbea51.chunk.js"
   },
   {
     "revision": "a1a636632721a402612df3e043dd630d",
-    "url": "/static/js/2.b0c9ebef.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.39dbea51.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "429d657cc817b5fdbc32",
-    "url": "/static/js/main.9557225a.chunk.js"
+    "revision": "f18190d8fb80fd27f2b8",
+    "url": "/static/js/main.b8f8d3a8.chunk.js"
   },
   {
     "revision": "3f809adccd7b5eb81ce7",
@@ -58,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72a56a60b1385893cbb5fd5aa2d3aca1",
     "url": "/static/media/gametracker-ver2-rails02.72a56a60.png"
+  },
+  {
+    "revision": "b8ca117c9349efcd2259c0464b9b9c30",
+    "url": "/static/media/ghosttrap.b8ca117c.png"
   },
   {
     "revision": "a22d51c44920d8c3915d97a7361d5a65",
