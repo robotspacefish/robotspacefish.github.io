@@ -1,5 +1,18 @@
 [
   {
+    "id": "ghosttrap",
+    "title": "Ghost Trap",
+    "img": "ghosttrap.png",
+    "github": "ghost-trap",
+    "view": "https://robotspacefish.itch.io/ghost-trap",
+    "info": [
+      "Ghost Trap is my entry for the TeenyTiny DragonRuby MiniGameJam. The theme was to create a game that can be played in 20 seconds.",
+      "You play as a dog ghost catcher and you have to trap as many ghosts as you can within those 20 seconds."
+    ],
+    "keywords": "Ruby, DragonRuby",
+    "blog": "https://dev.to/robotspacefish/ghost-trap-my-teenytiny-dragonruby-minigamejam-entry-5ee6"
+  },
+  {
     "id": "killexe",
     "title": "Kill.exe Not Found",
     "img": "killexe.png",
